@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "enquirer": "^2.3.6",
     "poker-hand-evaluator": "^1.0.1"
+  },
+  "devDependencies": {
+    "enquirer": "^2.3.6"
   }
 }
