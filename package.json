@@ -12,6 +12,7 @@
     "poker-hand-evaluator": "^1.0.1"
   },
   "devDependencies": {
-    "enquirer": "^2.3.6"
+    "enquirer": "^2.3.6",
+    "laravel-mix": "^6.0.31"
   }
 }
